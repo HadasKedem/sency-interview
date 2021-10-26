@@ -24,7 +24,7 @@ getNextPractice = (matrix) => {
             }
         }
     }
-    console.log(minimumList)
+    // console.log(minimumList)
     return minimumList[0]
 }
 
